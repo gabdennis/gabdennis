@@ -1,7 +1,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FmeGx6eGhicWQybWVoNmZ5cjlha3JseW8wbWZlMXVwNWl5Nng5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgZFvGuI4OxLjuSvRF/giphy.gif" alt="Masterhead" height="400" width="100%"> 
 
 # Hello there! I'm Gabbie.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabdennis&color=blueviolet" alt="qpeckin" /> </p>
 **`Hobbyist ⚡ (Reader/Writer/Data Analyst)`**
 
 I'm a 4th year student majoring in Finance. I love reading and writing but also data analytics (weird combo huh?). All my projects are built from scratch and are usually inspired by my mind going in autopilot. Due to my Finance background, I will include some projects tackling Financial problems, but I'll also love to keep it interesting and include some more fun projects later on.
