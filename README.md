@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabdennis&color=blueviolet" alt="qpeckin" /> </p>
 **`Hobbyist ⚡ (Reader/Writer/Data Analyst)`**
 
-I'm a 4th year student majoring in Finance. I love reading and writing but also data analytics (weird combo huh?). All my projects are built from scratch and are usually inspired by my mind going in autopilot. Due to my Finance background, I will include some projects tackling Financial problems, but I'll also love to keep it interesting and include some more fun projects later on.
+I'm a 4th year student majoring in Finance. All my projects are built from scratch and are usually inspired by my mind going in autopilot. Due to my Finance background, I will include some projects tackling Financial problems, but I'll also love to keep it interesting and include some more fun projects later on.
 
 - 🌱 I’m currently learning: **HTML**
 - 📫 How to reach me: **denniseliza@outlook.com**
